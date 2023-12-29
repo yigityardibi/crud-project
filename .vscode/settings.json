@@ -1,0 +1,6 @@
+{
+    "liveServer.settings.port": 5501,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
